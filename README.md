@@ -19,7 +19,7 @@ Using this as a guide I sorted Louisville's detailed data into 3 Categories Majo
 My data consists of the following data fields:
 
 |Field Name | Description                               |
-----------------------------------------------------------
+|-------------------------------------------------------|
 |  MONTH    | Monthly totals                            |
 | CATEGORY  | Property, Violent, or other crime         |
 |  COUNT    | Total Monthly counts of each crime type   |
