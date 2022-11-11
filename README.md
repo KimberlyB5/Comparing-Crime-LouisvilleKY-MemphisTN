@@ -19,15 +19,12 @@ Using this as a guide I sorted Louisville's detailed data into 3 Categories Majo
 My data consists of the following data fields:
 
 |Field Name | Description                               |
---------------------------------------------------------------------------------------------------
+----------------------------------------------------------
 |  MONTH    | Monthly totals                            |
---------------------------------------------------------------
 | CATEGORY  | Property, Violent, or other crime         |
-------------------------------------------------------------
 |  COUNT    | Total Monthly counts of each crime type   |
--------------------------------------------------------------
 | LOCATION  | Where the totals go Louisville or Memphis |
 
 After cleaning and sorting the data I exported them to seperate CSV files to move to Tableau Public to create additional graphs and merge the data.
-Please visit for the Tableau work ![HERE](https://public.tableau.com/views/LouisvilleMemphisCrimeData/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link)
+Please visit for the Tableau work ![HERE](https://public.tableau.com/app/profile/kimberly.burba/viz/Louisville-Memphis2022CrimeData/LouisvillevsMemphis)
 
