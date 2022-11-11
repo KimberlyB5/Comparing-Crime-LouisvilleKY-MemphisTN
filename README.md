@@ -1,4 +1,4 @@
-#**Comparing 2022 Crime Louisville, Kentucky and Memphis, Tennessee**#
+#**Comparing 2022 Crime Louisville, Kentucky and Memphis, Tennessee**
 
 I chose Louisville and Memphis because Louisville rates as number 29 on the top 50 largest cities as of the 2020 Census, Memphis is 28 with 59 more people than Louisville.  Memphis is the closest city size to Louisville. I used [THIS](https://www.infoplease.com/us/cities/top-50-cities-us-population-and-rank) website for my census data.
 
@@ -26,12 +26,12 @@ My data consists of the following data fields:
 | LOCATION  | Where the totals go Louisville or Memphis |
 
 
-#TO RUN THIS PROJECT:#
+**TO RUN THIS PROJECT:**
 
 I used VSCode with a Jupyter extension and imported
-        from pathlib import Path
+        ```from pathlib import Path
         import pandas as pd
-        import os
+        import os```
 
 After cleaning and sorting the data I exported them to seperate CSV files to move to Tableau Public to create additional graphs and merge the data.
 Please visit for the Tableau work [HERE](https://public.tableau.com/views/LouisvilleMemphis2022CrimeData/Memphis?:language=en-US&:display_count=n&:origin=viz_share_link)
