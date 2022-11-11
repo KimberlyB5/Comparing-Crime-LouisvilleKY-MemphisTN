@@ -26,5 +26,5 @@ My data consists of the following data fields:
 | LOCATION  | Where the totals go Louisville or Memphis |
 
 After cleaning and sorting the data I exported them to seperate CSV files to move to Tableau Public to create additional graphs and merge the data.
-Please visit for the Tableau work ![HERE](https://public.tableau.com/app/profile/kimberly.burba/viz/Louisville-Memphis2022CrimeData/LouisvillevsMemphis)
+Please visit for the Tableau work ![HERE](https://public.tableau.com/views/Louisville-Memphis2022CrimeData/Memphis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
