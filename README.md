@@ -29,9 +29,9 @@ My data consists of the following data fields:
 **TO RUN THIS PROJECT:**
 
 I used VSCode with a Jupyter extension and imported
-        ```from pathlib import Path
-        import pandas as pd
-        import os```
+        ```from pathlib import Path```, 
+        ```import pandas as pd```, 
+        ```import os```
 
 After cleaning and sorting the data I exported them to seperate CSV files to move to Tableau Public to create additional graphs and merge the data.
 Please visit for the Tableau work [HERE](https://public.tableau.com/views/LouisvilleMemphis2022CrimeData/Memphis?:language=en-US&:display_count=n&:origin=viz_share_link)
