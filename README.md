@@ -14,7 +14,7 @@ Memphis Crime data came totaled in 2 categories per month, Louisville Crime data
 
     "In the FBI’s Uniform Crime Reporting (UCR) Program, violent crime is composed of four offenses: murder and nonnegligent manslaughter, forcible rape, robbery, and aggravated assault. Violent crimes are defined in the UCR Program as those offenses which involve force or threat of force."
 
-Using this as a guide I sorted Louisville's detailed data into 3 Categories Major Property Crime, Major Violent Crime and Other.  The other did not fit into either category i.e. drug/alcohol charges, disturbing the peace, etc.
+Using this as a guide, I sorted Louisville's detailed data into 3 Categories: Major Property Crime, Major Violent Crime, and Other.  The Other did not fit into either the Major Property Crime or Major Violent Crime category i.e. drug/alcohol charges, disturbing the peace, etc.
 
 My data consists of the following data fields:
 
@@ -33,7 +33,7 @@ I used VSCode with a Jupyter extension and imported
         ```import pandas as pd```, 
         ```import os```
 
-After cleaning and sorting the data I exported them to seperate CSV files to move to Tableau Public to create additional graphs and merge the data.
+After cleaning and sorting the data, I exported them to seperate CSV files to move to Tableau Public to create additional graphs and merge the data.
 Please visit for the Tableau work [HERE](https://public.tableau.com/views/LouisvilleMemphis2022CrimeData/Memphis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Interesting observations from exploring this data:
