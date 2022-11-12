@@ -1,4 +1,4 @@
-#**Comparing 2022 Crime Louisville, Kentucky and Memphis, Tennessee**
+# **Comparing 2022 Crime Louisville, Kentucky and Memphis, Tennessee**
 
 I chose Louisville and Memphis because Louisville rates as number 29 on the top 50 largest cities as of the 2020 Census, Memphis is 28 with 59 more people than Louisville.  Memphis is the closest city size to Louisville. I used [THIS](https://www.infoplease.com/us/cities/top-50-cities-us-population-and-rank) website for my census data.
 
@@ -36,4 +36,13 @@ I used VSCode with a Jupyter extension and imported
 After cleaning and sorting the data I exported them to seperate CSV files to move to Tableau Public to create additional graphs and merge the data.
 Please visit for the Tableau work [HERE](https://public.tableau.com/views/LouisvilleMemphis2022CrimeData/Memphis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+Interesting observations from exploring this data:
 
+1. Memphis has more Major Property Crime than Louisville.
+2. Louisville has more Major Violent Crime than Memphis.
+3. Crime trends tend to be higher in warmer months.
+
+Ideas to expand this project:
+1. Expand the data to compare 2018 - 2022
+2. The comparison of the 2 years prior to the pandemic shutdown (2018, 2019) to the 2 years after the pandemic shutdown (2021, 2022).
+3. Exploring what happened during 2020 would be interesting compared to the 2 years before and after.
